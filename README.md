@@ -9,7 +9,7 @@ Full Stack Developer from India.
 
 - :zap: Solving problems on GeeksforGeeks, LeetCode and read tech articles.
 
-- :mailbox: Reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-bangotra-0ba7051a1/)
+- :mailbox: Reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-bangotra-0ba7051a1/)
 
 <!--
 **AnishBangotra/AnishBangotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
