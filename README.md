@@ -3,9 +3,9 @@
 
 Full Stack Developer from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Contributing to frontend and backend for building web and android applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing skills.
 
 - :zap: Solving problems on GeeksforGeeks, LeetCode and read tech articles.
 
