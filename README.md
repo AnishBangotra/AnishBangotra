@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 
-Full Stack Developer from India.
+Software Developer from India.
 
-- :telescope: Contributing to frontend and backend for building web and android applications.
-
-- :seedling: Exploring Technical Content Writing skills.
-
-- :zap: Solving problems on GeeksforGeeks, LeetCode and read tech articles.
-
+- :telescope: Contributing in making software better.
+- 
 - :mailbox: Reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-bangotra-0ba7051a1/)
 
 <!--
