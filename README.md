@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Software Engineer.
+Engineer here.
 - :telescope: Contributing in making Software better.
 - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-bangotra-0ba7051a1/)
 
